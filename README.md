@@ -10,3 +10,5 @@
  ### Feautures of Quiz Portal -
  
  * ### Home
+![alt text](https://raw.githubusercontent.com/Man-vendra/Quiz-Portal/master/HOME.jpg)
+We can either Post a quiz or take a quiz depending on whether you are a  teacher or student respectively
