@@ -10,5 +10,25 @@
  ### Feautures of Quiz Portal -
  
  * ### Home
-![alt text](https://raw.githubusercontent.com/Man-vendra/Quiz-Portal/master/HOME.jpg)
-We can either Post a quiz or take a quiz depending on whether you are a  teacher or student respectively
+ 
+![alt text](https://github.com/Man-vendra/Quiz-Portal/blob/master/images/HOME.jpg?raw=true)
+We can either Post a quiz or take a quiz depending on whether you are a  teacher or student respectively.
+* ### Admin Login / Register
+![alt text](https://github.com/Man-vendra/Quiz-Portal/blob/master/images/admin1.jpg?raw=true)
+Teachers can create account or login into the portal to post quiz.
+
+* ### Adding Subject
+![alt text](https://github.com/Man-vendra/Quiz-Portal/blob/master/images/ADDASUBJECT.jpg?raw=true)
+Adding a subject is easy and using quiz code gives the feature of adding different quizes under same subject
+
+* ### Setting Timer and Adding Question based on section
+![alt text](https://github.com/Man-vendra/Quiz-Portal/blob/master/images/Section.png?raw=true)
+Teachers can post questions of various types such as 
+- Single Correct MCQ
+- Multiple Correct MCQ
+- True/false 
+And Teachers can also add timer for every each section , after the time is over each section ends.
+
+* ### Student Login / Register
+![alt text](https://github.com/Man-vendra/Quiz-Portal/blob/master/images/studentlogin.jpg?raw=true)
+Students can create account or login into the portal to take the quiz.
