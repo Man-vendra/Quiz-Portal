@@ -32,3 +32,5 @@ And Teachers can also add timer for every each section , after the time is over 
 * ### Student Login / Register
 ![alt text](https://github.com/Man-vendra/Quiz-Portal/blob/master/images/studentlogin.jpg?raw=true)
 Students can create account or login into the portal to take the quiz.
+
+
